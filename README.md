@@ -1,3 +1,5 @@
+I renamed the main branch.
+
 # Pneumatic
 
 Pneumatic is a minimalistic, responsive [Pelican] theme. The name was chosen
